@@ -1,0 +1,29 @@
+.container{
+    margin:30px 25px;
+    padding:0px;
+    height:100%;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+.product{
+    background-color:antiquewhite;
+    border-bottom-width: thin;
+    margin:50px;
+    height:250px;
+    width:250px;
+    float:left;
+}
+.picture{
+    padding:8px;
+    height:250px;
+    width:250px;
+}
+.picture img{
+    height:250px;
+    width:250px;
+}
+.add{
+    text-align:right;
+}

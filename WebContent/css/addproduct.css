@@ -1,0 +1,14 @@
+.form input{
+    height:50px;
+    width:700px;
+}
+#sub{
+    height:60px;
+    width:80px;
+}
+.container{
+    padding: 20px;
+    margin:50px 250px 10px 250px;
+    border-style: solid;
+    border-width: thin;
+}

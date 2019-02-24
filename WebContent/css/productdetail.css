@@ -1,0 +1,21 @@
+.container{
+    margin:5px 5px;
+    padding:0px;
+    height:100%;
+    width:100%;
+    text-align: center;
+}
+.product_picture{
+    background-color:honeydew;
+}
+.picture img{
+    height:500px;
+    width:800px;
+}
+.product_content img{
+    height:400px;
+    width:700px;
+}
+#eva{
+	text-align:left;
+}

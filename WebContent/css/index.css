@@ -1,0 +1,68 @@
+ul{margin:0;padding:0;list-style-type:none;}
+a{text-decoration:none;}
+h1{text-align:center;}
+.mold_open_hover,.mold_open{display:inline-block;width:10px;height:6px;margin-left:10px;position:relative;top:-2px;}
+.mold_open{background-position:0 -6px;}
+.mold_open_hover{background-position:0 0;}
+.mod-menu{position:relative;z-index:1000;left:-1px;margin-left:100px;float:left;}
+.menu-cont-list a:hover{text-decoration:underline;}
+.mod-menu .menu-item{width:220px;border-top:solid 1px #d59bb2;border-bottom:solid 2px #d59bb2;position:relative;z-index:22;margin:30px 70px;}
+.mod-menu .menu-item li{height:47px;line-height:47px;background:#feebf3;border-top:solid 1px #f0bfd3;}
+.mod-menu .menu-item li.mouse-bg{background:url(../image/mouse-menu-bg.jpg) no-repeat #fff;position:relative;z-index:22;margin-right:-4px;}
+.mod-menu .menu-item a{color:#c81d61;font-size:16px;padding-left:33px;display:block;height:45px;border-top:solid 1px #f1f2f7;}
+.mod-menu .menu-item a:hover{ text-decoration:none;}
+.mod-menu .menu-cont{position:absolute;left:220px;top:1px;background:#fff;width:573px;border:solid 1px #F0BFD3;box-shadow:2px 0 10px rgba(210,33,103,0.25);z-index:20;margin:30px 70px;}
+.mod-menu .menu-cont-list{padding:0 30px;}
+.mod-menu .menu-cont-list li{border-bottom:dotted 1px #f0bfd3;padding:10px 0;}
+.mod-menu .menu-cont-list li:last-child{border-bottom:none;}
+.mod-menu .menu-cont-list h3{font-size:14px;font-weight:700;}
+.mod-menu .menu-cont-list h3 a{color:#222;}
+.mod-menu .menu-list-link a{color:#666;line-height:24px;}
+.mod-menu .menu-list-link .long-string{color:#ccc;font-size:12px;padding:0 10px;}
+.pic img{width:500px;height:450px;float:left;}
+.pic{padding:50px;margin:10px;}
+.container{
+    margin:30px 25px;
+    padding:0px;
+    height:100%;
+    width:100%;
+    float:clear;
+}
+h1{
+    text-align: center;
+}
+.product{
+    background-color:antiquewhite;
+    border-bottom-width: thin;
+    margin:50px;
+    height:200px;
+    width:200px;
+    float:left;
+}
+.picture{
+    padding:8px;
+    height:250px;
+    width:250px;
+}
+.picture img{
+    height:250px;
+    width:250px;
+}
+.add{
+    text-align:right;
+}
+.p{
+	text-align:right;
+}
+#contain{
+	height:50px;
+	width:100%;
+}
+.test{
+	
+}
+.test image{
+	width:200px;
+	height:300px;
+	
+}

@@ -1,0 +1,34 @@
+.container{
+    height: 100%;
+    width:100%;
+    margin:200px 140px;
+}
+.picture img{
+    height: 250px;
+    width:400px;
+    float:left;
+}
+h1{
+    text-align: center;
+}
+.divi{
+    margin:0px 10px 0px 240px;
+    float:left;
+    height: 500px;
+    width:400px;
+}
+.massage{
+    padding:0px 10px;
+    height: 300px;
+    width:400px;
+    border-style:solid;
+    border-width:thin;
+}
+form input{
+    height:30px;
+    width:300px;
+}
+#sub{
+    height:40px;
+    width:70px;
+}
